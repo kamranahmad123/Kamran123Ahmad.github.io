@@ -14,7 +14,7 @@ Git must be installed on you machine.
 
 ### Setup
 Visit live website by clicking this link :
-`https://kamran123ahmad.github.io/`
+https://kamran123ahmad.github.io/
 
 ### Install
 
