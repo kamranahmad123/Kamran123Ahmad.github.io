@@ -13,8 +13,8 @@ To get a local copy up and running follow these simple example steps.
 Git must be installed on you machine.
 
 ### Setup
-Clone this repository by using the command line :
-`git clone https://github.com/Kamran123Ahmad/My_Portfolio_Project`
+Visit live website by clicking this link :
+`https://kamran123ahmad.github.io/`
 
 ### Install
 
